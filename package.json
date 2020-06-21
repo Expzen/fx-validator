@@ -1,12 +1,12 @@
 {
   "name": "fxvalidator",
   "version": "1.0.0",
-  "description": "A simple javascript form validator.",
+  "description": "A simple javascript validator.",
   "scripts": {
     "build": "webpack --env.production",
     "dev": "webpack --env.development"
   },
-  "author": "",
+  "author": "Wind",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.3",
